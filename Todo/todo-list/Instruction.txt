@@ -1,0 +1,4 @@
+Set Up react and run it
+Create firebase and connect with our project by doing firebase login
+CleanUp Process by deleting some files and deleting everything in div in app.js and deleting import logo line.
+(Optional) u can clean everything in app.css and in index.css add margin 0
